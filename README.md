@@ -16,7 +16,7 @@
 - ✅ Arabic & English Localization
 
 ## Featured Video 
-- https://drive.google.com/file/d/1yeN9OfDNYjupG6YGhSdmOtMbQ0GH2OSN/view
+- https://github.com/kinjal7675/TODOTasks/blob/main/Todo_App_Video.webm
 
 ## What We used 💪
 
